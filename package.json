@@ -32,6 +32,7 @@
       "aurelia-templating-router": "npm:aurelia-templating-router@^1.0.0-beta.1.2.0",
       "css": "github:systemjs/plugin-css@^0.1.26",
       "json": "github:systemjs/plugin-json@^0.1.0",
+      "syncfusion-javascript": "npm:syncfusion-javascript@^15.1.37",
       "text": "github:systemjs/plugin-text@^0.0.7"
     },
     "devDependencies": {

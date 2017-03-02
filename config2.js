@@ -236,6 +236,7 @@ System.config({
     "core-js": "npm:core-js@0.9.18",
     "css": "github:systemjs/plugin-css@0.1.32",
     "json": "github:systemjs/plugin-json@0.1.2",
+    "syncfusion-javascript": "npm:syncfusion-javascript@15.1.37",
     "text": "github:systemjs/plugin-text@0.0.7",
     "github:jspm/nodelibs-assert@0.1.0": {
       "assert": "npm:assert@1.4.1"
@@ -465,6 +466,13 @@ System.config({
     },
     "npm:string_decoder@0.10.31": {
       "buffer": "github:jspm/nodelibs-buffer@0.1.0"
+    },
+    "npm:syncfusion-javascript@15.1.37": {
+      "jquery": "npm:jquery@3.1.1",
+      "jquery-validation": "npm:jquery-validation@1.16.0",
+      "jquery-validation-unobtrusive": "npm:jquery-validation-unobtrusive@3.2.6",
+      "jsrender": "npm:jsrender@0.9.83",
+      "syncfusion-ej-global": "npm:syncfusion-ej-global@15.1.37"
     },
     "npm:through2@2.0.3": {
       "process": "github:jspm/nodelibs-process@0.1.2",
