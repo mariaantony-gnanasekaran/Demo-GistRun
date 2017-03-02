@@ -10,9 +10,9 @@ System.config({
     "optional": []
   },
   paths: {
-    "github:*": "https://cdn.rawgit.com/mariaantony-gnanasekaran/Demo-GistRun/0.1.0/jspm_packages/github/*",
-    "npm:*": "https://cdn.rawgit.com/mariaantony-gnanasekaran/Demo-GistRun/0.1.0/jspm_packages/npm/*",
-    "bundles/bundle.js": "https://cdn.rawgit.com/mariaantony-gnanasekaran/Demo-GistRun/0.1.0/bundles/bundle.js"
+    "github:*": "https://cdn.rawgit.com/mariaantony-gnanasekaran/Demo-GistRun/0.2.0/jspm_packages/github/*",
+    "npm:*": "https://cdn.rawgit.com/mariaantony-gnanasekaran/Demo-GistRun/0.2.0/jspm_packages/npm/*",
+    "bundles/bundle.js": "https://cdn.rawgit.com/mariaantony-gnanasekaran/Demo-GistRun/0.2.0/bundles/bundle.js"
   },
   bundles: {
     "bundles/bundle.js": [
